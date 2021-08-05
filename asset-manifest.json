@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Bprint-pricing%7D/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/%7Bprint-pricing%7D/static/js/main.9c75b822.chunk.js",
+    "main.js.map": "/%7Bprint-pricing%7D/static/js/main.9c75b822.chunk.js.map",
+    "runtime-main.js": "/%7Bprint-pricing%7D/static/js/runtime-main.56747729.js",
+    "runtime-main.js.map": "/%7Bprint-pricing%7D/static/js/runtime-main.56747729.js.map",
+    "static/js/2.34790222.chunk.js": "/%7Bprint-pricing%7D/static/js/2.34790222.chunk.js",
+    "static/js/2.34790222.chunk.js.map": "/%7Bprint-pricing%7D/static/js/2.34790222.chunk.js.map",
+    "static/js/3.1236a1e6.chunk.js": "/%7Bprint-pricing%7D/static/js/3.1236a1e6.chunk.js",
+    "static/js/3.1236a1e6.chunk.js.map": "/%7Bprint-pricing%7D/static/js/3.1236a1e6.chunk.js.map",
+    "index.html": "/%7Bprint-pricing%7D/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/%7Bprint-pricing%7D/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.34790222.chunk.js.LICENSE.txt": "/%7Bprint-pricing%7D/static/js/2.34790222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56747729.js",
+    "static/js/2.34790222.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9c75b822.chunk.js"
+  ]
+}
