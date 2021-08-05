@@ -1,8 +1,8 @@
+import PrintCalculator from "./components/PrintCalculator";
+
 function App() {
   return (
-    <div>
-      Hello world.
-    </div>
+    <PrintCalculator />
   );
 }
 
