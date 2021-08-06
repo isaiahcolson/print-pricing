@@ -1,5 +1,7 @@
 import { useState } from 'react';
 
+import packageJson from '../../package.json';
+
 const PrintCalculator = () => {
   const [filamentCost, setFilamentCost] = useState(22.99);
   const [materialWeight, setMaterialWeight] = useState(50);
@@ -58,6 +60,10 @@ const PrintCalculator = () => {
 
       <div>
         <p>Total Cost: ${calculateTotal()}</p>
+      </div>
+
+      <div>
+        <p>v{packageJson.version}</p>
       </div>
     </div>
   );
